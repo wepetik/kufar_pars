@@ -1,1 +1,1 @@
-worker: python kufar_monitor.py
+worker: python kufar_pars2.py
